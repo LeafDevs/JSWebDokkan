@@ -1,0 +1,28 @@
+{
+    "player": "CHANGE_ME_TO_PLAYER_NAME",
+    "stones": 150,
+    "units": [{
+        "name": "Goku",
+        "typing": "PHY",
+        "stats": {
+            "ATK": 6166,
+            "DEF": 3725,
+            "HP": 6422
+        },
+        "rank": "SSR",
+        "max_rank": "LR",
+        "amount": 1
+    }],
+    "items": [{
+        "name": "Whis",
+        "amount": 25
+    }],
+    "currency": {
+        "zeni": 0,
+        "red_coin": 0,
+        "yellow_coin": 0,
+        "blue_coin": 0
+    },
+    "story": "A1L0",
+    "transfer_code": "CHANGE_ME_TO_INTEGER"
+}
